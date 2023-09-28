@@ -38,7 +38,7 @@ For example:
 Solving a TEA
 -------------
 
-To solve a tea, you can use either the ``get_NPV_given_IRR`` function, 
+To solve a TEA, you can use either the ``get_NPV_given_IRR`` function, 
 or the ``get_IRR_given_NPV function``, or the ``get_MPSP_given_IRR`` function.
 
 For example:
