@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+teamod/_TEA.py
+teamod/__init__.py
+teamod.egg-info/PKG-INFO
+teamod.egg-info/SOURCES.txt
+teamod.egg-info/dependency_links.txt
+teamod.egg-info/requires.txt
+teamod.egg-info/top_level.txt

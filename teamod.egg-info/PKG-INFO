@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: teamod
+Version: 0.0.1
+Summary: A tool to enable techno-economic analysis (TEA) in Python.
+Home-page: https://github.com/sarangbhagwat/teamod/
+Author: Sarang S. Bhagwat
+Author-email: sarang.bhagwat.git@gmail.com
+License: MIT
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Scientific/Engineering
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Manufacturing
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: University of Illinois/NCSA Open Source License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python :: 3.9
+License-File: LICENSE
