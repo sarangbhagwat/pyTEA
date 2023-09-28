@@ -1,4 +1,4 @@
-Welcome to the TEAmod ReadTheDocs!
+TEAmod: Modules to enable techno-economic analysis (TEA) in Python.
 ===================================
 
 **TEAmod** is a package to enable techno-economic analysis (TEA) in Python.
