@@ -29,8 +29,8 @@ For example:
 >>>                	     purchase_cost=10_000_000, # currency
 >>>                	     hourly_variable_operating_cost=675, # currency/h
 >>>                
->>>                	     hourly_product_flows=[300, 200],
->>>                	     product_prices=[4.2, 1.1],
+>>>                	     hourly_product_flows=[300, 200], # (mass or energy or other units)/h
+>>>                	     product_prices=[4.2, 1.1], # currency/(mass or energy or other units); must have the same order as hourly_product_flows
 >>> 
 >>> 			     # check the API for a full list of arguments
 >>>			    )
