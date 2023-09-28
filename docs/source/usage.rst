@@ -33,7 +33,7 @@ For example:
 >>>                	     product_prices=[4.2, 1.1],
 >>> 
 >>> 			     # check the API for a full list of arguments
->>>			)
+>>>			    )
 
 Solving a TEA
 -------------
