@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
-=======================================
+TEAmod
+======
+Modules to enable techno-economic analysis (TEA) in Python.
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Read the documentation here:
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+https://teamod.readthedocs.io/en/latest/
