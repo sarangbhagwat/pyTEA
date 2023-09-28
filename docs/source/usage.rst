@@ -10,7 +10,7 @@ To use TEAmod, first install it using pip:
 
 .. code-block:: console
 
-   (.venv) $ pip install teamod
+   pip install teamod
 
 Creating a TEA object
 ---------------------
@@ -51,4 +51,5 @@ To obtain and save a cash flow report for your project, you can use the
 ``get_cashflow_report`` function.
 
 For example:
+
 >>> example_TEA.get_cashflow_report('example_TEA_cashflow_report.xlsx')
